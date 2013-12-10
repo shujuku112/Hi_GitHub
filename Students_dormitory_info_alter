@@ -203,6 +203,6 @@ private void btn_EditSure_Click(object sender, EventArgs e)//确定修改学生�
 
 private void btn_Exit_Click(object sender, EventArgs e)
 {
-	this.Close();
+	
 }
 
